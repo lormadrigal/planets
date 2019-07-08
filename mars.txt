@@ -1,2 +1,7 @@
 Cold and dry, but everything is my favorite color.
 
+<<<<<<< HEAD
+=======
+The two moons are a problem for wolfman.
+
+>>>>>>> parent of 1e83046... arbitrary change
